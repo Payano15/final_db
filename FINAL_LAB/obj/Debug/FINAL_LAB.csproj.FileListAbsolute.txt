@@ -1,0 +1,13 @@
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\bin\Debug\FINAL_LAB.exe
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\bin\Debug\FINAL_LAB.pdb
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.csproj.AssemblyReference.cache
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.ALQUILER_CONDOMINIOS.resources
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.Properties.Resources.resources
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.csproj.GenerateResource.cache
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.csproj.CoreCompileInputs.cache
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.exe
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.pdb
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.Cliente.resources
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.Condominios.resources
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.Alquiler.resources
+C:\Users\PAYANO\Desktop\PRO LAB DATOS\FINAL_LAB\obj\Debug\FINAL_LAB.rpt_alquiler.resources
